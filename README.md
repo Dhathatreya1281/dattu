@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="night-shift-work.gif" alt="image">
+    <img src="[night-shift-work.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Quadcopter_camera_drone_in_flight.jpg/1200px-Quadcopter_camera_drone_in_flight.jpg)" alt="image">
 </body>
 </html>
